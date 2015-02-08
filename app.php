@@ -9,8 +9,6 @@ $dm = require_once __DIR__.'/bootstrap.php';
  | Start
  */
 
-use \DateTime as DateTime;
-
 $employee = new Employee();
 $employee->setName('Employee');
 $employee->setSalary(50000);
