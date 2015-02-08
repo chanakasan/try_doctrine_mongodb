@@ -1,0 +1,8 @@
+{
+    "require": {
+        "doctrine/mongodb-odm": "~1.0.0-BETA11"
+    },
+    "autoload": {
+        "classmap": ["models"]
+    }
+}
